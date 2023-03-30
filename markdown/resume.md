@@ -1,19 +1,45 @@
-Johnny Coder
+Viktor Lindström Ahlstedt
 ============
 
 ----
-
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+> Developer turned Agile coach turned DevOps Engineer
+> Looking for positions both as Scrum Master/Agile Coach and 
+> Infrastructure / DevOps Engineer
 
 ----
+
+Experience
+----------
+
+2021 January to Current: CloudRAN Staging DevopsEngineer, _Ericsson_
+
+:  Develop large scale staging environment for cloud native RAN. Develop CI system
+for test and infrastructure code. Improve CI system security. Jenkins, Gerrit,
+Vault, Spinnaker, Openshift. Languages include Python, bash and Java.
+
+2019 September to 2021 December: IoTA DevOps Engineer, _Ericsson_
+
+:  2021 February - 2021 December: 
+Develop new CI/CD system for next generation IoTA using GitOps and IaC, running
+in AWS Cloud and Ericsson Cloud. Gitlab, FluxCD, Vault, Terraform.
+
+:  2021 September - 2021 December:
+IoTA NG CI Product Owner working in a SAFe setup.
+
+:  2019 September - 2021 February
+Maintain and develop Gitlab based CI system as Team Lead and developer.
+Using Artifactory, Ansible, Docker, Kubernetes
+
+2014 March to 2019 September: Agile Coach and Scrum Master, IoTA, _Ericsson_
+
+: 
+
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2004-2008
+:   **Elektronik och Kommunikation (Electronics and Communication)**; KTH (Stockholm)
 
     *Thesis title: Deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
@@ -24,23 +50,6 @@ Education
 
     *Minor: Awesomeology*
 
-Experience
-----------
-
-**Your Most Recent Work Experience:**
-
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
-
-* First item
-
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
-
-**That Other Job You Had**
-
-Also with a short description.
 
 Technical Experience
 --------------------
