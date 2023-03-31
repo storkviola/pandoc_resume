@@ -2,8 +2,9 @@ Viktor Lindström Ahlstedt
 ============
 
 ----
-> Developer turned Agile coach turned DevOps Engineer
-> Looking for positions both as Scrum Master/Agile Coach and 
+
+> Developer interested in improving flow, turned Agile coach turned DevOps
+> Engineer. Looking for positions both as Scrum Master/Agile Coach and 
 > Infrastructure / DevOps Engineer
 
 ----
@@ -11,29 +12,64 @@ Viktor Lindström Ahlstedt
 Experience
 ----------
 
-2021 January to Current: CloudRAN Staging DevopsEngineer, _Ericsson_
+2021-01 to Current
 
-:  Develop large scale staging environment for cloud native RAN. Develop CI system
-for test and infrastructure code. Improve CI system security. Jenkins, Gerrit,
-Vault, Spinnaker, Openshift. Languages include Python, bash and Java.
+:  **CloudRAN Staging DevopsEngineer, _Ericsson_** 
 
-2019 September to 2021 December: IoTA DevOps Engineer, _Ericsson_
+    Develop large scale staging environment for cloud native RAN. Develop CI
+    system for test and infrastructure code. Improve CI system security.
+    Jenkins, Gerrit, Vault, Spinnaker, Openshift. Languages include Python, bash
+    and Java.
 
-:  2021 February - 2021 December: 
-Develop new CI/CD system for next generation IoTA using GitOps and IaC, running
-in AWS Cloud and Ericsson Cloud. Gitlab, FluxCD, Vault, Terraform.
+2019-09 to 2021-12
 
-:  2021 September - 2021 December:
-IoTA NG CI Product Owner working in a SAFe setup.
+:  **IoTA DevOps Engineer, _Ericsson_**
 
-:  2019 September - 2021 February
-Maintain and develop Gitlab based CI system as Team Lead and developer.
-Using Artifactory, Ansible, Docker, Kubernetes
+    _2021 February - 2021 December:_ 
 
-2014 March to 2019 September: Agile Coach and Scrum Master, IoTA, _Ericsson_
+    Develop new CI/CD system for next generation IoTA using GitOps and IaC,
+    running in AWS Cloud and Ericsson Cloud. Gitlab, FluxCD, Vault, Terraform.
 
-: 
+    _2021 September - 2021 December:_
 
+    IoTA NG CI Product Owner working in a SAFe setup.
+
+    _2019 September - 2021 February_
+
+    Maintain and develop Gitlab based CI system as Team Lead and developer.
+    Using Artifactory, Ansible, Docker, Kubernetes
+
+2014-03 to 2019-09
+
+:  **Agile Coach and Scrum Master, IoTA, _Ericsson_**
+Coach teams with development of Ericssons IoT platform. Be part of a team of
+coaches that work with improving the end to end flow from sales to operations.
+Work with development teams and bring in knowledge of the development flow and
+facilitate cooperation and cross functional work primarily between Product Line,
+Deployment & Operations. Introduce SRE concepts, give Kanban Courses.
+
+2010 - 2014
+
+: **Kanban team leader and Agile & Lean coach at Ericsson**
+Coach two teams developing hardware near software in a Kanban
+system. Support the teams to deliver customer value on time using Agile and
+Lean. Give Kanban courses to teams and team leaders, and held Team Master and
+Team Coaches Day connecting ~100 Scrum Masters and coaches at PDU LMR.
+
+: 2010 – 2013 Scrum Master and Kanban team leader at Ericsson
+
+: Leading 2 teams using Scrum and Kanban. Driver of a forum for Scrum Masters
+to promote learning and coordination. Driver of Improvement Community for Git
+introduction to prepare for Continuous Integration. Cofacilitated a one day
+workshop for around 60 Scrum Masters, Product owners and Line Managers to learn
+collaboratively how to make the roles work well together..
+
+2008 – 2010
+
+: SW Designer at Ericsson
+
+: Developing embedded software in C++ for Radio Base Stations Radio
+Unit in a cross functional team. Focus on drivers and hardware near software.
 
 Education
 ---------
@@ -51,12 +87,13 @@ Education
     *Minor: Awesomeology*
 
 
-Technical Experience
+Courses
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+Agile Retrospectives
+:  With _Esther Derby_ and _Diana Larsen_
+
+    How to use the experience from the teams and drive continuous improvement
 
     * These items can also contain lists, but you need to mind the
       indentation levels in the markdown source.
