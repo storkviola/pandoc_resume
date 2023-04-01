@@ -14,30 +14,27 @@ Experience
 
 2021-01 to Current
 
-:  **CloudRAN Staging DevopsEngineer, _Ericsson_** 
+:  **CloudRAN Staging DevopsEngineer, _Ericsson_**
 
-    Develop large scale staging environment for cloud native RAN. Develop CI
-    system for test and infrastructure code. Improve CI system security.
+    * Build and run large scale staging environment for cloud native RAN.
+    * Develop CI system for test and infrastructure code.
+    * Improve CI system security using Vault for sensitive data.  
     Jenkins, Gerrit, Vault, Spinnaker, Openshift. Languages include Python, bash
     and Java.
 
 2019-09 to 2021-12
 
-:  **IoTA DevOps Engineer, _Ericsson_**
+:  **IoTA DevOps Engineer, _Ericsson_**  
+Develop new CI/CD system for next generation IoTA using GitOps and IaC, running
+in AWS Cloud and Ericsson Cloud. Gitlab, FluxCD, Vault, Terraform.  
+(_2021-02 to 2021-12_)\
 
-    _2021 February - 2021 December:_ 
+:  IoTA NG CI Product Owner working in a SAFe setup.  
+(_2021-09 to 2021-12_)\
 
-    Develop new CI/CD system for next generation IoTA using GitOps and IaC,
-    running in AWS Cloud and Ericsson Cloud. Gitlab, FluxCD, Vault, Terraform.
-
-    _2021 September - 2021 December:_
-
-    IoTA NG CI Product Owner working in a SAFe setup.
-
-    _2019 September - 2021 February_
-
-    Maintain and develop Gitlab based CI system as Team Lead and developer.
-    Using Artifactory, Ansible, Docker, Kubernetes
+:  Maintain and develop Gitlab based CI system as Team Lead and developer.
+Using Artifactory, Ansible, Docker, Kubernetes.  
+(_2019-09 to 2021-02_)\
 
 2014-03 to 2019-09
 
@@ -66,7 +63,7 @@ collaboratively how to make the roles work well together..
 
 2008 – 2010
 
-: SW Designer at Ericsson
+: **SW Designer at Ericsson**
 
 : Developing embedded software in C++ for Radio Base Stations Radio
 Unit in a cross functional team. Focus on drivers and hardware near software.
@@ -75,36 +72,42 @@ Education
 ---------
 
 2004-2008
-:   **Elektronik och Kommunikation (Electronics and Communication)**; KTH (Stockholm)
+:   **Electronics and Communication**; KTH (Stockholm)
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+2004
+:  **English**; University of Stockholm
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+2001
+:  **Spanish**; University of Stockholm
 
-    *Minor: Awesomeology*
-
+1998
+:  **Philosophy of science**; University of Gothenburg
 
 Courses
 --------------------
 
-Agile Retrospectives
-:  With _Esther Derby_ and _Diana Larsen_
+**Product Development Leadership program**  
+4 days intensive course, Ericsson CTO Office, 2017\
 
-    How to use the experience from the teams and drive continuous improvement
+**Kanban Coaching Masterclass**  
+  With David J Anderson, 2015
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+**Agilean Coach Program**  
+with Mikael Göthe and Johan Tandberg. 6 Months training, including driving a change experiment. My experiment was to
+get a lively forum for Scrum Masters, POs and Line Managers, 2013
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+**Kanban kick-start**  
+with Tomas Björkholm, Crisp, 2012
+
+**Linux programming** by Informator, 2012
+
+**Retrospectives – making good teams great**
+with Diana Larsen and Esther Derby. How to use the experience from the teams
+and drive continuous improvement, 2011
+
+**Certified Scrum Master** with Henrik Kniberg, Crisp, 2010
+
+**OSE Grundkurs** ENEA, 2008
 
 Programming Languages
 :   **first-lang:** Here, we have an itemization, where we only want
@@ -142,5 +145,5 @@ Extra Section, Call it Whatever You Want
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <viktor.ahlstedt@gmail.com> • +46 76 33 55 782  
+> Ljusstöparbacken 1, 117 65 Stockholm, Sweden
