@@ -4,15 +4,33 @@ Viktor Lindström Ahlstedt
 ----
 
 > Developer interested in improving flow, turned Agile coach turned DevOps
-> Engineer. Looking for positions both as Scrum Master/Agile Coach and 
-> Infrastructure / DevOps Engineer
+> Engineer. Applying for position as Senio Sytstem Engineer.
 
 ----
 
 Experience
 ----------
 
-2021-01 to Current
+2023-09 to Now
+
+:  **System Engineer in I&O tem CoECD FAF, _Folksam_**
+
+    Among other things I've been
+
+    * Invloved in setting up and enabling Folksam IDP (Devport)  by
+        * Design and implementation of Devports Artifact handling in Artifactory
+        * Involved in developing the setup in Gitlab including rights management
+        * Setting up the devport shared Gitlab runners
+        * Design and implementation of archiving solution for artifacts produced
+          in devports pipelines
+    * Design and implementation of Artifactory Archiving available for all teams
+        making great cost saving for the company compared to alternatives.
+    * Settig up Shared runners in Aro available for all teams.
+        * Easy to maintain and monitored with FCL and Grafana
+        * Provide solutions with CI-components (e.g. build, deploy, verify-deploy)
+          available for all teams at the company
+
+2022-01 to 2023-08
 
 :  **CloudRAN Staging DevopsEngineer, _Ericsson_**
 
